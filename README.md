@@ -1,3 +1,5 @@
+![Clase UML](https://user-images.githubusercontent.com/72110790/113087972-4dc29e00-91aa-11eb-84f0-066e8b80e139.jpeg)
+![Diagrama de caso de uso](https://user-images.githubusercontent.com/72110790/113087981-51eebb80-91aa-11eb-81ed-d00e2a7fb751.jpeg)
 # **Programacion 2 - Proyecto Final**
 
 - Sergio Andrés Valderrama Vélez
